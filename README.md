@@ -9,4 +9,4 @@ phpの最終課題
 
 システム名：コンビニ最強
 
-URL：
+URL：https://aso2201163.hiho.jp/final/top.php
